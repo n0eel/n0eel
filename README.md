@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi there, I'm n0el! 👋<br>### Full-Stack Web Developer & Tech Innovator<br><br>I am a passionate software engineer focused on building high-performance web applications, interactive digital experiences, and integrating cutting-edge AI technologies into modern interfaces.<br><br>---<br><br><br>> **Special Interests:** AI Prompt Engineering • Computer Vision (Gesture-Controlled AR) • OSINT & Cybersecurity<br><br>---<br><br>### 🛠 Current Focus & Projects<br><br>*   🌸 **AI-Powered Flower Constructor** — A modern e-commerce platform featuring a real-time interactive bouquet generator driven by generative AI models.<br>*   ✨ **Lumière** — A cinematic, highly interactive web project (*"A Love Letter from the Future"*) utilizing futuristic design aesthetics and smooth UX/UI transitions.<br>*   🦾 **Computer Vision & AR** — Developing experimental Python applications that utilize hand gestures (via OpenCV) to scale and manipulate digital elements in real time.<br><br>---<br><br>### 📫 Connect with Me<br><br>[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/n0eel) <!-- Замени твой_ник на свой юзернейм в ТГ --><br>[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n0elkchau@gmail.com) <!-- n0elkchau@gmail.com --><br><br>---<br><br>⚡ *Fun fact: I genuinely enjoy debugging tricky Vercel deployment errors and making complex peer dependencies play nice together.*
 
-<!--
-**n0eel/n0eel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ne_n0el) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ne_n0el) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:n0elkchau@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=n0eel&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=n0eel&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=n0eel&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=n0eel&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=n0eel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=n0eel&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
