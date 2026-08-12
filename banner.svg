@@ -51,7 +51,7 @@
   </text>
 
   <text x="60" y="140" font-family="'Fira Code', 'Consolas', monospace" font-weight="700" font-size="34" fill="#f5f5f7" letter-spacing="0.5">
-    <tspan>your name</tspan>
+    <tspan>n0el</tspan>
     <animate attributeName="opacity" values="0;0;1" dur="1.4s" fill="freeze"/>
   </text>
 
