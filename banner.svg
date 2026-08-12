@@ -42,7 +42,7 @@
 
   <!-- name typing effect -->
   <text x="400" y="88" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="40" font-weight="700" fill="#f2f2f7" letter-spacing="2">
-    your name
+    n0el
     <animate attributeName="opacity" values="0;0;1" dur="1.2s" fill="freeze"/>
   </text>
 
@@ -54,7 +54,7 @@
 
   <!-- subtitle in brackets -->
   <text x="400" y="140" text-anchor="middle" font-family="'Courier New', monospace" font-size="15" fill="#7f8ca3" letter-spacing="1">
-    &lt;your.tagline/&gt;
+    &lt;ne_n0el/&gt;
   </text>
 
   <!-- blinking cursor -->
