@@ -1,0 +1,76 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="accent2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#34d399"/>
+      <stop offset="50%" style="stop-color:#22d3ee"/>
+      <stop offset="100%" style="stop-color:#818cf8"/>
+    </linearGradient>
+    <filter id="glow2">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#2a2a3a" stroke-width="0.5" opacity="0.35"/>
+    </pattern>
+  </defs>
+
+  <!-- background -->
+  <rect width="800" height="200" fill="#0d0d14"/>
+  <rect width="800" height="200" fill="url(#grid)"/>
+
+  <!-- border frame -->
+  <rect x="4" y="4" width="792" height="192" rx="10" fill="none" stroke="#22d3ee" stroke-width="1" opacity="0.5"/>
+
+  <!-- floating particles -->
+  <circle cx="90" cy="150" r="1.4" fill="#34d399" opacity="0.4">
+    <animate attributeName="cy" values="150;140;150" dur="4.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="4.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="710" cy="50" r="1.1" fill="#818cf8" opacity="0.35">
+    <animate attributeName="cy" values="50;40;50" dur="3.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35;0.7;0.35" dur="3.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="620" cy="165" r="1" fill="#22d3ee" opacity="0.3">
+    <animate attributeName="cy" values="165;157;165" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="180" cy="35" r="1.2" fill="#34d399" opacity="0.3">
+    <animate attributeName="cy" values="35;27;35" dur="3.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- name typing effect -->
+  <text x="400" y="88" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="40" font-weight="700" fill="#f2f2f7" letter-spacing="2">
+    your name
+    <animate attributeName="opacity" values="0;0;1" dur="1.2s" fill="freeze"/>
+  </text>
+
+  <!-- vertical gradient tick under name, expanding out -->
+  <rect x="399" y="102" width="2" height="0" fill="url(#accent2)" filter="url(#glow2)">
+    <animate attributeName="height" values="0;18" dur="0.9s" begin="1s" fill="freeze"/>
+    <animate attributeName="y" values="102;96" dur="0.9s" begin="1s" fill="freeze"/>
+  </rect>
+
+  <!-- subtitle in brackets -->
+  <text x="400" y="140" text-anchor="middle" font-family="'Courier New', monospace" font-size="15" fill="#7f8ca3" letter-spacing="1">
+    &lt;your.tagline/&gt;
+  </text>
+
+  <!-- blinking cursor -->
+  <rect x="500" y="128" width="8" height="15" fill="#22d3ee" opacity="0.85">
+    <animate attributeName="opacity" values="0.85;0;0.85" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- tag chips row -->
+  <g font-family="'Courier New', monospace" font-size="12" fill="#a7b0c0">
+    <rect x="300" y="160" width="46" height="20" rx="10" fill="#151522" stroke="#34d399" stroke-width="0.6" opacity="0.9"/>
+    <text x="323" y="174" text-anchor="middle" fill="#34d399">web</text>
+
+    <rect x="352" y="160" width="60" height="20" rx="10" fill="#151522" stroke="#22d3ee" stroke-width="0.6" opacity="0.9"/>
+    <text x="382" y="174" text-anchor="middle" fill="#22d3ee">mobile</text>
+
+    <rect x="418" y="160" width="70" height="20" rx="10" fill="#151522" stroke="#818cf8" stroke-width="0.6" opacity="0.9"/>
+    <text x="453" y="174" text-anchor="middle" fill="#818cf8">backend</text>
+  </g>
+</svg>
